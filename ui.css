@@ -1,0 +1,52 @@
+/*
+<!----
+	Application  Developed By : KevanGol
+	16:44 ending
+	29-11-2020
+-->
+*/
+th
+		{
+			width: 300px;
+			padding: 10px;
+			background-color: #03506f;
+			color: #ffffff;
+		}
+		input[type="text"]
+		{
+			padding: 10px;
+			outline: none;
+			width: 500px;
+		}
+		button{
+			padding: 10px;
+			width: 260px;
+			outline: none;
+			background-color: #03506f;
+			border:none;
+			color: #ffffff;
+		}
+		button[name="k1"]{
+			background-color: #61b15a;
+			width: 200px;
+		}
+		button[name="k2"]{
+			background-color: #c75643;
+			width: 200px;
+		}
+		.brd
+		{
+			padding: 10px;
+			height: 350px;
+			width: 600px;
+			background-color: #323232;
+			overflow-y: scroll;
+			text-align: left;
+		}
+		.crd
+		{
+			height: 100px;
+			padding: 15px;
+			width: 560px;
+			background-color: #ffffff;
+		}
